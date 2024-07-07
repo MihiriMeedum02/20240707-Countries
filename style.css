@@ -1,0 +1,29 @@
+body{
+  background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-hand-drawn-winter-snow-snow-illustration-background-picture-image_1147379.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.first{
+  background-color: aquamarine;
+  font: 300;
+}
+.img-thumbnail{
+ border-color: black; 
+ width: 500px;
+}
+#name{
+  color: brown;
+}
+#tblCountries{
+  background-position: 100%;
+  background-color: blueviolet;
+  color: rgb(0, 0, 0);
+  align-content: center;
+  border-color: black;
+  outline: black;
+}
+#searchBar{
+  
+}
